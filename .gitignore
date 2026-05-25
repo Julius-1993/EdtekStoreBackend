@@ -1,16 +1,2 @@
-node_modules/
-frontend/node_modules/
-backend/node_modules/
+node_modules
 .env
-frontend/.env
-backend/.env
-.env.local
-.env.production
-dist/
-build/
-*.log
-npm-debug.log*
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
